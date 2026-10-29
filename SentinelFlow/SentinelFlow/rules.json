@@ -1,0 +1,10 @@
+{
+  "high_amount_threshold": "10000.00",
+  "high_amount_score": 35,
+  "frequency_window_minutes": 60,
+  "frequency_max_transactions": 5,
+  "frequency_score": 30,
+  "duplicate_window_minutes": 5,
+  "duplicate_pattern_score": 50,
+  "duplicate_id_score": 60
+}
